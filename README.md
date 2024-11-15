@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/0b/43/9b/0b439b6a52f3bc8e421a4556c1f689a5.jpg" align="center" style="width: 100%" />
-</div>  
+  <img src="https://i.pinimg.com/736x/0b/43/9b/0b439b6a52f3bc8e421a4556c1f689a5.jpg" 
+       style="width: 100%; height: 200px; object-fit: cover;" />
+</div>
+  
   
 
 ### <div align="center">I'm Quantum, learning full-stack :D</div>  
