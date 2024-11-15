@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/0b/43/9b/0b439b6a52f3bc8e421a4556c1f689a5.jpg" 
-       style="width: 100%; max-height: 100px; object-fit: cover;" />
+  <img src="https://www.manchesterdigital.com/storage/5071/unnamed-28.jpg" 
+       style="width: 60%; height: auto;" />
 </div>
 
   
